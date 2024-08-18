@@ -18,6 +18,7 @@ const config: Config = {
      colors: {
       deepGray: "#3A4F7A",
       warmOrange: "#FF8C38",
+      ash: "#F0F0F0"
      }
     },
   },
