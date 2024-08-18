@@ -1955,6 +1955,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"iconsax-react@npm:^0.0.8":
+  version: 0.0.8
+  resolution: "iconsax-react@npm:0.0.8"
+  dependencies:
+    prop-types: "npm:^15.7.2"
+  peerDependencies:
+    react: "*"
+  checksum: 10c0/056532f76b5704428e3d2e20893848f57b002fe4051c7cf4e3de102f744cd56d9115b4c708b3a38c0cffc14fd20df3c0bd2be679fa24fa113b8433072b57dd4d
+  languageName: node
+  linkType: hard
+
 "iconv-lite@npm:^0.6.2":
   version: 0.6.3
   resolution: "iconv-lite@npm:0.6.3"
@@ -3188,7 +3199,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prop-types@npm:^15.8.1":
+"prop-types@npm:^15.7.2, prop-types@npm:^15.8.1":
   version: 15.8.1
   resolution: "prop-types@npm:15.8.1"
   dependencies:
@@ -3820,6 +3831,7 @@ __metadata:
     "@types/react-dom": "npm:^18"
     eslint: "npm:^8"
     eslint-config-next: "npm:14.2.5"
+    iconsax-react: "npm:^0.0.8"
     jose: "npm:^5.6.3"
     next: "npm:14.2.5"
     postcss: "npm:^8"
