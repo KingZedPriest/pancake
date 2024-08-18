@@ -15,11 +15,10 @@ const config: Config = {
       "2xl": "1400px",
     },
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
+     colors: {
+      deepGray: "#3A4F7A",
+      warmOrange: "#FF8C38",
+     }
     },
   },
   plugins: [],
